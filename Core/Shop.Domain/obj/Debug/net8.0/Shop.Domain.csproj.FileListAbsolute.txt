@@ -1,0 +1,11 @@
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\bin\Debug\net8.0\Shop.Domain.deps.json
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\bin\Debug\net8.0\Shop.Domain.dll
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\bin\Debug\net8.0\Shop.Domain.pdb
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\Shop.Domain.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\Shop.Domain.dll
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\refint\Shop.Domain.dll
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\Shop.Domain.pdb
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Domain\obj\Debug\net8.0\ref\Shop.Domain.dll
