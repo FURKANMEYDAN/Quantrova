@@ -9,7 +9,7 @@
 - **Frontend**(Currently working on it): React
 - **ORM**: Entity Framework Core
 - **Logging**: Serilog
--
+
 
 ## Features
 - **Product Management**: CRUD operations for products.
