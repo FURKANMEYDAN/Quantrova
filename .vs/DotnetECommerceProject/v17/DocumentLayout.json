@@ -1,12 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC70DFC-597F-46EB-9F6F-E9CB8A40F6CC}|Presentation\\Shop.WebApi\\Shop.WebApi.csproj|c:\\users\\furkan\\source\\repos\\dotnetecommerceproject\\presentation\\shop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC70DFC-597F-46EB-9F6F-E9CB8A40F6CC}|Presentation\\Shop.WebApi\\Shop.WebApi.csproj|solutionrelative:presentation\\shop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466458A6-B2F4-4906-BA30-CE64229FCB28}|Core\\Shop.Application\\Shop.Application.csproj|c:\\users\\furkan\\source\\repos\\dotnetecommerceproject\\core\\shop.application\\features\\cqrs\\handlers\\producthandlers\\getproductlistwithproductimagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466458A6-B2F4-4906-BA30-CE64229FCB28}|Core\\Shop.Application\\Shop.Application.csproj|solutionrelative:core\\shop.application\\features\\cqrs\\handlers\\producthandlers\\getproductlistwithproductimagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466458A6-B2F4-4906-BA30-CE64229FCB28}|Core\\Shop.Application\\Shop.Application.csproj|c:\\users\\furkan\\source\\repos\\dotnetecommerceproject\\core\\shop.application\\features\\cqrs\\result\\productresults\\getproductlistwithproductimagequeryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466458A6-B2F4-4906-BA30-CE64229FCB28}|Core\\Shop.Application\\Shop.Application.csproj|solutionrelative:core\\shop.application\\features\\cqrs\\result\\productresults\\getproductlistwithproductimagequeryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466458A6-B2F4-4906-BA30-CE64229FCB28}|Core\\Shop.Application\\Shop.Application.csproj|c:\\users\\furkan\\source\\repos\\dotnetecommerceproject\\core\\shop.application\\features\\cqrs\\queries\\productqueries\\getproductlistwithproductimagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466458A6-B2F4-4906-BA30-CE64229FCB28}|Core\\Shop.Application\\Shop.Application.csproj|solutionrelative:core\\shop.application\\features\\cqrs\\queries\\productqueries\\getproductlistwithproductimagequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Presentation\\Shop.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Shop.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Presentation\\Shop.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\Shop.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:30:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductListWithProductImageQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Core\\Shop.Application\\Features\\CQRS\\Result\\ProductResults\\GetProductListWithProductImageQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\Shop.Application\\Features\\CQRS\\Result\\ProductResults\\GetProductListWithProductImageQueryResult.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Core\\Shop.Application\\Features\\CQRS\\Result\\ProductResults\\GetProductListWithProductImageQueryResult.cs",
+              "RelativeToolTip": "Core\\Shop.Application\\Features\\CQRS\\Result\\ProductResults\\GetProductListWithProductImageQueryResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:26:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductListWithProductImageQuery.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Core\\Shop.Application\\Features\\CQRS\\Queries\\ProductQueries\\GetProductListWithProductImageQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Shop.Application\\Features\\CQRS\\Queries\\ProductQueries\\GetProductListWithProductImageQuery.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Core\\Shop.Application\\Features\\CQRS\\Queries\\ProductQueries\\GetProductListWithProductImageQuery.cs",
+              "RelativeToolTip": "Core\\Shop.Application\\Features\\CQRS\\Queries\\ProductQueries\\GetProductListWithProductImageQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:25:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductListWithProductImageQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Core\\Shop.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\GetProductListWithProductImageQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Shop.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\GetProductListWithProductImageQueryHandler.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\source\\repos\\DotnetECommerceProject\\Core\\Shop.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\GetProductListWithProductImageQueryHandler.cs",
+              "RelativeToolTip": "Core\\Shop.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\GetProductListWithProductImageQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:22:00.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

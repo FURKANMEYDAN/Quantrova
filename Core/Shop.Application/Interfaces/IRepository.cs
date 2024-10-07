@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Shop.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -15,5 +16,7 @@ namespace Shop.Application.Interfaces
         Task DeleteAsync(T entity);
         Task UpdataAsync(T entity);
         Task<T> GetByFilterAsync(Expression<Func<T, bool>> filter);
+        
+    
     }
 }

@@ -14,6 +14,9 @@ namespace Shop.Application.Features.CQRS.Queries.ProductQueries
         public string CategoryName { get; set; }
         public string CategoryDetailName { get; set; }
 
+        public string ProductDescription { get; set; }
+        public string ProductImageUrl { get; set; }
+        public decimal ProductPrice { get; set; }
         public Category Category { get; set; }
         public CategoryDetail CategoryDetail { get; set; }
 

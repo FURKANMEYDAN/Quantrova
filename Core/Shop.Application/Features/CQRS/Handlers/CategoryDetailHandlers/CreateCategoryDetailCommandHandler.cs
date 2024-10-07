@@ -23,6 +23,7 @@ namespace Shop.Application.Features.CQRS.Handlers.CategoryDetailHandlers
             {
                 CategoryDetailName = createCategoryDetailsCommand.CategoryDetailName,
                 CategoryId= createCategoryDetailsCommand.CategoryId,
+                ImageUrl  = createCategoryDetailsCommand.ImageUrl,
             });
 
         }

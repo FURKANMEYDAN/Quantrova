@@ -19,6 +19,7 @@ namespace Shop.Application.Features.CQRS.Handlers.CategoryDetailHandlers
             value.CategoryDetailName = updateCategoryDetailsCommand.CategoryDetailName;
             value.CategoryDetailId = updateCategoryDetailsCommand.CategoryDetailId;
             value.CategoryId = updateCategoryDetailsCommand.CategoryId;
+            value.ImageUrl = updateCategoryDetailsCommand.ImageUrl; 
             await _repository.UpdataAsync(value);
         }
     }

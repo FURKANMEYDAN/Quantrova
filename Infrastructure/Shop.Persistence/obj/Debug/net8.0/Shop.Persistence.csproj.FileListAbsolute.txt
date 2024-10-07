@@ -11,6 +11,7 @@ C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persiste
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\Shop.Persistence.AssemblyInfoInputs.cache
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\Shop.Persistence.AssemblyInfo.cs
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\Shop.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\Shop.Persistence.sourcelink.json
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\Shop.Per.EFCCFD74.Up2Date
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\Shop.Persistence.dll
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Infrastructure\Shop.Persistence\obj\Debug\net8.0\refint\Shop.Persistence.dll

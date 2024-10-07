@@ -8,6 +8,7 @@ C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\De
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\Shop.Application.AssemblyInfoInputs.cache
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\Shop.Application.AssemblyInfo.cs
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\Shop.Application.sourcelink.json
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\Shop.App.3200E812.Up2Date
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\Shop.Application.dll
 C:\Users\FURKAN\source\repos\DotnetECommerceProject\Core\Shop.Application\obj\Debug\net8.0\refint\Shop.Application.dll

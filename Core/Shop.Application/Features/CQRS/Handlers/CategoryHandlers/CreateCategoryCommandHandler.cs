@@ -22,6 +22,7 @@ namespace Shop.Application.Features.CQRS.Handlers.CategoryHandlers
             await _repository.CreateAsync(new Category
             {
                 CategoryName = createCategoryCommand.CategoryName,
+                ImageUrl  = createCategoryCommand.ImageUrl,
             });
 
         }

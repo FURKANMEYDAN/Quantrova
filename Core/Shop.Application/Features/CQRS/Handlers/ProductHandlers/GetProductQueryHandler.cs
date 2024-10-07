@@ -27,7 +27,9 @@ namespace Shop.Application.Features.CQRS.Handlers.ProductHandlers
                 CategoryId = x.CategoryId,
                 CategoryDetailId = x.CategoryDetailId,
                 ProductName = x.ProductName,
-              
+                ProductDescription = x.ProductDescription,
+                ProductPrice = x.ProductPrice,
+                ProductImageUrl = x.ProductImageUrl,
             }).ToList();
         }
     }

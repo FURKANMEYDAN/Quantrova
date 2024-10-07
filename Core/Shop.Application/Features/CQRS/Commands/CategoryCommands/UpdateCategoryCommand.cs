@@ -8,6 +8,7 @@ namespace Shop.Application.Features.CQRS.Commands.CategoryCommands
 {
     public class UpdateCategoryCommand
     {
+        public string ImageUrl { get; set; }
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
     }

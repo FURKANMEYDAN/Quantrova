@@ -24,7 +24,10 @@ namespace Shop.Application.Features.CQRS.Handlers.ProductHandlers
                 ProductName = createProductCommand.ProductName,
                 CategoryId = createProductCommand.CategoryId,
                 CategoryDetailId = createProductCommand.CategoryDetailId,
-                
+                ProductPrice = createProductCommand.ProductPrice,   
+                ProductImageUrl = createProductCommand.ProductImageUrl, 
+                ProductDescription = createProductCommand.ProductDescription,   
+
 
                 
             });

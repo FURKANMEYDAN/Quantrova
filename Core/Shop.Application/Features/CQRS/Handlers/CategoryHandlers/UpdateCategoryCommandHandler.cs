@@ -23,6 +23,7 @@ namespace Shop.Application.Features.CQRS.Handlers.CategoryHandlers
             var value = await _repository.GetByIdAsync(updateCategoryCommand.CategoryId);
             value.CategoryId = updateCategoryCommand.CategoryId;
             value.CategoryName = updateCategoryCommand.CategoryName;
+            value.ImageUrl = updateCategoryCommand.ImageUrl;    
             await _repository.UpdataAsync(value);
         }
     }

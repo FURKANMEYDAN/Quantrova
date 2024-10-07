@@ -16,7 +16,7 @@ namespace Shop.WebApi.Controllers
         private readonly UpdateProductCommandHandler _updateProductCommandHandler;
         private readonly RemoveProductCommandHandler _removeProductCommandHandler;
         private readonly GetProductListWithCategoryQueryHandler _getProductListWithCategoryQueryHandler;
-
+        private readonly GetProductListWithProductImageQueryHandler _getProductListWithProductImageQueryHandler;    
         public ProductsController(GetProductQueryHandler getProductQueryHandler, GetProductByIdQueryHandler getProductByIdQueryHandler, CreateProductCommandHandler createProductCommandHandler, UpdateProductCommandHandler updateProductCommandHandler, RemoveProductCommandHandler removeProductCommandHandler, GetProductListWithCategoryQueryHandler getProductListWithCategoryQueryHandler)
         {
             _getProductQueryHandler = getProductQueryHandler;
@@ -25,6 +25,13 @@ namespace Shop.WebApi.Controllers
             _updateProductCommandHandler = updateProductCommandHandler;
             _removeProductCommandHandler = removeProductCommandHandler;
             _getProductListWithCategoryQueryHandler = getProductListWithCategoryQueryHandler;
+              
+            
+        }
+
+        public ProductsController(GetProductQueryHandler getProductQueryHandler, GetProductByIdQueryHandler getProductByIdQueryHandler, CreateProductCommandHandler createProductCommandHandler, UpdateProductCommandHandler updateProductCommandHandler, RemoveProductCommandHandler removeProductCommandHandler, GetProductListWithCategoryQueryHandler getProductListWithCategoryQueryHandler, GetProductListWithProductImageQueryHandler getProductListWithProductImageQueryHandler) : this(getProductQueryHandler, getProductByIdQueryHandler, createProductCommandHandler, updateProductCommandHandler, removeProductCommandHandler, getProductListWithCategoryQueryHandler)
+        {
+            _getProductListWithProductImageQueryHandler = getProductListWithProductImageQueryHandler;
         }
 
         [HttpGet]
@@ -46,6 +53,14 @@ namespace Shop.WebApi.Controllers
         {
 
             var values = await _getProductListWithCategoryQueryHandler.Handle();
+            return Ok(values);
+        }
+
+        [HttpGet("GetProductListWithProductImages")]
+        public async Task<IActionResult> GetProductListWithProductImages()
+        {
+
+            var values = await _getProductListWithProductImageQueryHandler.Handle();
             return Ok(values);
         }
 

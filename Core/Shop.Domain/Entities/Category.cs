@@ -11,6 +11,7 @@ namespace Shop.Domain.Entities
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
+        public string ImageUrl { get; set; }
         [JsonIgnore]
         public List<CategoryDetail> CategoryDetail { get; set; }
       

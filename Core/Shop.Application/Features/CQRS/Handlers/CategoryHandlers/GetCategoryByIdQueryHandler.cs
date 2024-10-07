@@ -25,6 +25,8 @@ namespace Shop.Application.Features.CQRS.Handlers.CategoryHandlers
             {
                 CategoryId = value.CategoryId,
                 CategoryName = value.CategoryName,
+                ImageUrl = value.ImageUrl, 
+
             };
         }
     }

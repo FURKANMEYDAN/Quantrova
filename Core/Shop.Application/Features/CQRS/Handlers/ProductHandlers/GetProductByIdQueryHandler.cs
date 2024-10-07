@@ -27,7 +27,9 @@ namespace Shop.Application.Features.CQRS.Handlers.ProductHandlers
                 ProductName = value.ProductName,
                 CategoryId = value.CategoryId,
                 CategoryDetailId = value.CategoryDetailId,
-    
+                ProductImageUrl = value.ProductImageUrl,    
+                ProductDescription = value.ProductDescription,  
+                ProductPrice = value.ProductPrice,
             };
         }
     }

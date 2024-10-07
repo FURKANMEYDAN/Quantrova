@@ -32,6 +32,10 @@ namespace Shop.Application.Features.CQRS.Handlers.ProductHandlers
                             ProductId = p.ProductId,
                             CategoryName = c.CategoryName,
                             ProductName = p.ProductName,
+                            ProductImageUrl = p.ProductImageUrl,    
+                            ProductDescription = p.ProductDescription,    
+                            ProductPrice = p.ProductPrice,    
+
                             CategoryDetailName = cd.CategoryDetailName,
                             Category = c,
                             CategoryDetail = cd
